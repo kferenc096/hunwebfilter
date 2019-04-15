@@ -1,1878 +1,246 @@
-https://connect.facebook.net/en_US/fbds.js
-https://connect.facebook.net/hu_HU/sdk.js#version=v3.1&xfbml=1&autoLogAppEvents=1&appId=330827937019153
+127.0.0.1	index.hu
+127.0.0.1	ingyen-szex-sex.hu
+127.0.0.1	tubev.sex/?hl=hu
+127.0.0.1	ingyen-szex-sex.hu/
+127.0.0.1	tubev.sex/?hl=hu
+127.0.0.1	napiszex.hu/
+127.0.0.1	szex.lap.hu/
+127.0.0.1	szex-filmek.hu/szexfilmek.html
+127.0.0.1	rosszlanyok.hu/szexvideok
+127.0.0.1	megaszex.hu/porno-videok.html
+127.0.0.1	szexbarlang.hu/pornovideok.html
+127.0.0.1	eliteporn.hu/magyar-szex-video/
 
-ingyen-szex-sex.hu
-www.tubev.sex/?hl=hu
-ingyen-szex-sex.hu/
-www.tubev.sex/?hl=hu
-www.napiszex.hu/
-szex.lap.hu/
-www.szex-filmek.hu/szexfilmek.html
-rosszlanyok.hu/szexvideok
-megaszex.hu/porno-videok.html
-www.szexbarlang.hu/pornovideok.html
-www.eliteporn.hu/magyar-szex-video/
-
-https://index.hu/
-index.hu
-2perc.info
-24ora.eu
-ajanlom-magamat.com
-aktiv-blog.com
-aktiv-hirek.net
-alternativhirek.blogspot.hu
-www.anepszava.com
-aztbeszelik.com
-facebook.com/bakkecske.net
-bamulat.blogspot.hu
-best-hir.com
-bizalmas.com
-bizony.eu
-boroskola.info
-budapest1873.net
-budapest-1873.info
-www.buzzblog.eu
-cikkelek.eu
-civilhir.net
-csakneked.info
-csucshatas.eu
-szupcsi.eu
-csumida.com
-dinamikus.com
-dobbenetes.com
-dosszie.com
-egeszsegespont.hu
-egyazegyben.com
-egyenesen.com
-egyveleg.com
-elfogadom.eu
-eljunkszabadon.co.vu
-www.elkepeszto.net
-www.erdekescikkek.com
-erdekeshirek.info
-erdekeshirek.club
-erdemesszo.club
-exkluziv-videok.com
-extremblog.com
-ezerdekes.eu
-ezt-figyeld.com
-ezt-figyeld-blog.com
-eznempiti.eu
-eztnezd.net
-eztnezdmeg.info
-eztnezdmeg-blog.com
-eztnezdmeg.net
-eztnezdmeg.com
-ez-zsir.net
-ace-nemzedek.com
-fejezet.com
-figyuzz.net
-fogjunkossze.com
-fontoshirek.info
-fontostudni.club
-filmhir.net
-first-video.net
-fm3cafe.hu
-www.fem3cafe.me
-franko.info
-frenetikus.com
-frissvilag.com
-funtasztikus.eu
-globire.info
-gonosz-majom.com
-hatter-story.info
-heti-naplo.com
-www.hetperc.com
-hir-24.info
-hir-24.eu
-hir27.in
-hir44.blogspot.com
-hirado-online.net
-hirado.top
-figyelo-net.com
-hirek-online.com
-hirek.top
-hirexpressz.top
-hirfolyam24.blogspot.hu
-hirjarat.com
-hirkalap.net
-hirkert.info
-hirkozlo.com
-hirlexikon.eu
-hirmadar.com
-www.hirnap.info
-hirnaplo.com
-hir-online.com
-hironline24.net
-hirorigo.net
-hirozon.info
-hirportal.info
-hir-start.net
-hir-start.com
-hirszabadsag.blogspot.com
-hirtop.in
-www.hir-tv.com
-hirtrafik.top
-hirturi.blogspot.hu
-www.hirvarazs.info
-hirvilag.co
-hirzona24.com
-hitel.news7.hu
-hungaryexpres.com
-husospizza.com
-index-blog.net
-mindenbenegyblog.hu
-www.kaprazatos.club
-kepzavar.info
-ketkes.com
-kiralyvidi.eu
-kiskegyed.creatorword.com
-kozszolgalat.com
-kukucs.info
-kutyapisti.eu
-lajkolj.info
-lapzarta.com
-lattadmar.eu
-ledobbensz.blogspot.hu
-legfrissebb.info
-legjava.com / legjava.pro
-macskajaj.net
-www.anephangja.com
-magyarkozosseg.net
-magyar-media.com
-www.magyarnep.me
-magyarokrol.com
-magyarokvagyunk.com
-mai-friss.com
-mai-hirek.net
-www.ma-reggel.me
-mediavadasz.info
-megdobbensz.info
-meglepo.info
-hotpixel.co.vu
-megoszthato.blogspot.hu
-meteon.org
-www.mindenegyben.com
-mindenegybenblog.hu
-mindenegyben-blog.com
-mindenegybenblog.net
-mindenegyben-blog.net
-www.minden-egyben.com/
-mindenegyhelyen.info
-mulato.info
-mokavilag.com
-mokuskerek.club
-morickamegpiskota.housefmradio.eu
-a-nagy-alku.com
-nagyonjoo.com
-napi-friss.com
-napi-hir.net
-napi-hirek.net
-napi-humor.hu
-napi-media.com
-napimigrans.com
-napimigrans.info
-napitrend.blogspot.hu
-www.napiujsag.hu
-naplo-extra.com
-naturahirek.com
-www.anephangja.com
-netbetyar.me
-netextra.hu
-erdekesvilag.eu
-nethir.eu
-netbulvar.eu
-netujsag.info
-hu.news-front.info
-www.nlcafe.me
-nyaralok.net
-organikusok.blogspot.hu
-origo-blog.com
-origo-hirek.net
-origoblog.net
-origo-online.net
-otletdivak.hu
-www.otpercpiheno.hu
-otpercpiheno.blogspot.com
-palyazatfigyelo.info
-phuphi.com
-pletyka.eu
-pluszcafe.hu
-popec.net
-www.remekcikkek.com
-reszvetel.blogspot.com
-rtlhirek-online.com
-www.rtl-klub.me
-rtl-most.blogspot.hu
-szupertanacsok.blog.hu
-sokminden.info
-skubizd.info
-szabadonebredok.info
-szemlelo.com
-Szerencses – szerencses.info
-szerencsemano.info
-tenyek24.net
-tenyek24.eu
-tenyek-online.com
-thehungariantimes.hu
-tiltott.net
-titkoshirek.wordpress.com
-titokterminal.com
-tophirek.hu
-www.figyeld.eu
-tricikli.com
-tudasfaja.com
-www.atudas-faja.hu
-www.tudasfaja.club
-tudaskor.com
-tudathalo.blogspot.hu
-tudatosanelok.com
-tudnivalok.com
-tudnodkel.blogspot.com
-tudnodkell.info
-www.tutihirek.org
-ujvilagtudat.blogspot.hu
-www.xcore.in
-vakarek.info
-vattacukor.net
-vicces-humoros.com
-vidamsag.postr.hu
-video-bazis.com
-videojohny.eu
-vidnline.com
-www.video-perc.net
-videopista.eu
-vilagfigyelo.com
-vilaghelyzete.blogspot.com
-www.vilaglato.info
-vilagpolgarok.blogspot.hu
-avilagtitkai.com
-vilagunk.hu
-
-http://1helyen.eu
-http://168-ora.info
-http://2perc.info
-http://24hironline.net
-http://24ora.eu
-http://abtds.me
-http://www.anephangja.com
-http://www.anepszava.com
-http://atudas-faja.hu
-http://avilagma.com
-http://avilagtitkai.com
-http://aztbeszelik.com
-http://a-znewsonline.com
-http://bamulat.blogspot.hu
-http://bamulatos.com
-http://www.befigyel.com
-https://bekezdes.co
-http://bekezdes.com
-http://bekezdes.org
-http://bidista.com
-http://blikkruzs.blikk.hu
-http://blogmania.hu
-http://budapest1873.net
-http://bulvarinfo.com
-https://buzzblog.eu
-http://civilhir.net
-http://csajos.com
-http://csajszinet.club
-http://csak5perc.com
-http://csaladtamogatas.info
-http://csapassad.com
-http://csavarkulcs.eu
-http://csucsposztok.eu
-http://csucs-videoblog.com
-http://www.dobbenetes.com
-http://dosszie.com
-http://www.egybeminden.com
-http://egybeminden.hu
-https://egyenesben.com
-http://egyenesen.com
-http://egyszerencse.club
-http://egyveleg.com
-http://egyveleg.eu
-http://elfogadom.eu
-http://eljunkszabadon.co.vu
-http://elmenyorszag.com
-https://erdekes.info
-http://erdekesportal.info
-http://www.erdekessegek.net
-http://ertesito.info
-http://ezatutioldal.blogspot.hu
-http://ezjolesz.com
-http://eznemsemmilehet.blogspot.hu
-http://ezt-figyeld.com
-http://eztlatnodkell.xyz
-http://eztlesd.top
-http://fejezet.com
-http://felhivasok.com
-http://fenyorveny.hu
-http://figyelo-net.com
-http://fm3cafe.hu
-http://fmradio88.blogspot.hu
-http://fontoshirek.info
-http://fontostudni.club
-http://frisshirek48.com
-http://frisshirek-nonstop.com
-http://frissvilag.com
-http://funtasztikus.eu
-http://www.gyorshirek.com
-http://hasznos.info
-http://hatter-story.info
-http://hazitippek.com
-http://heti-naplo.com
-http://het-koznapok.info
-http://hihetetlendolgok.com
-http://hihetetlenvideo.eu
-http://hir-24.eu
-https://hir22.blogspot.hu
-http://hir44.blogspot.hu
-http://hirado.org
-http://hirado-online.eu
-http://hirado-online.net
-http://www.hirarena.com
-http://hirarena.eu
-http://hircentrum.top
-http://hirkozpont.com
-http://hirekonline.com
-https://hir.ma
-http://hircafefm.blogspot.hu
-https://hircenter.net
-http://hirfolyam24.blogspot.hu
-http://hirkozpont.eu
-http://hirnaplo.com
-http://hironline.info
-http://hironline24.net
-http://hirorigo.net
-http://hirtop.in
-http://hirturi.blogspot.com
-http://hir-tv911.blogspot.hu
-http://hir-tv.blogspot.hu
-http://www.hir-tv.com
-http://www.hirvilag.co
-http://hirzona24.com
-http://hiteleshirek.net
-https://hitelforum.hu
-http://hirklikk.info
-http://hirujsag.hu
-http://www.hogyvolt.com
-http://hungaryexpres.com
-http://hungarys.info
-http://hvq-online.com
-http://www.idovonal.com
-http://index-blog.net
-http://indexhir.com
-http://indexonline.hu
-http://jatekszablyok.blogspot.hu
-http://www.jatszoterblog.com
-http://www.jotemak.club
-http://www.kaprazatos.club
-http://kaprazatosutazasok.blogspot.hu
-http://kepzavar.info
-https://ketkes.com
-http://koz-elet.com
-http://kozerdek.com
-http://www.kulfoldiapro.com
-http://lajkolj.info
-http://lapzarta.com
-http://latnodkell.com
-http://ledobbensz.blogspot.hu
-http://legfrissebb.info
-https://www.legjava.pro
-http://levendulamesei.blogspot.hu
-http://www.ma-reggel.me
-http://mai-hirek.net
-http://www.magyarhir.com
-http://magyarhir7.blogspot.hu
-http://magyarnep.blogspot.hu
-http://www.magyarnep.me
-https://www.magyarsziv.com
-https://magyarokrol.com
-http://magyar-media.com
-https://maihireink.blogspot.com
-http://www.maivalosag.com
-http://maivilag.com
-http://mediacsoport.com
-http://megbizhato.info
-http://megtortenhet.com
-http://meteon.org
-http://mindenamikell.net
-https://www.minden-egyben.com
-http://mindenegyben-blog.net
-http://www.mindenegyben.com
-http://mindenegyben.net
-http://www.mindenegybenblog.hu
-http://mindenegybenblogs.hu
-http://mindenegybenoldal.blogspot.com
-http://mindenegyhelyenblog.com
-http://mindenrolmost.blogspot.hu
-http://www.mivilagunk.com
-http://mokavilag.com/index.php
-http://mokuskerek.club
-http://mosolyklubb.eu
-http://nagyonerdekes.com
-http://napicsaj.eu
-http://napimigrans.com
-http://napimigrans.info
-http://napitemazas.blogspot.hu
-http://napivalasztek.com
-http://naplo-extra.com
-http://naplopo.info
-http://nep-szava.blogspot.hu
-https://netbulvar.eu
-https://netceleb.eu
-https://netextra.hu
-http://nethir.com
-https://netujsag.info
-http://netujsag.net
-http://nlcafe.me
-http://nokert.info
-http://nonstop-frisshirek.com
-http://nyugdij.info
-http://nyugdijasok.com
-http://nyugdijasok.hu
-http://onlineelet.info
-http://online-kalkulator.hu
-http://origo-hirek.net
-http://origo-online.eu
-http://origo-online.info
-http://origo-online.net
-http://origoblog.net
-http://origohir.net
-http://origoonline.net
-http://oszdmeg.hu
-http://otpercpiheno.blogspot.com
-http://www.otpercpiheno.hu
-http://palyazat.org
-http://palyazatfigyelo.info
-http://palyazatinfok.hu
-http://penzugy.org
-https://reszvetel.blogspot.com
-http://rtl-hirek2.blogspot.hu
-http://rtl-most.blogspot.hu
-http://sarcasmlol.eu
-http://sokminden.info
-http://story-extra.com
-http://storyvilag.com/hu
-http://szemlelo.com
-http://szerencsehozo.club
-http://szerencsemano.info
-http://szerencses.info
-http://szinesvidek.blogspot.hu
-http://sztorivilag.com/hu
-http://szupertanacsok.blog.hu
-http://szupertanacsokblog.hu
-http://tamogatas.net
-http://tenyek24.net
-http://tenyek-online.com
-http://titokterminal.com
-http://top-hirek.com
-http://tophir.eu
-http://tortenetekanagyvilagbol.info
-http://tudaskor.com
-http://www.tudathalo.com
-http://tudathalo.blogspot.hu
-http://www.tudasfaja.club
-http://www.tudasfaja.com
-https://www.tudnivalok.eu
-http://www.tudnierdemes.info
-http://tudnodkell.info
-https://ujvilagtudat.blogspot.com
-http://utcaembereiblog.net
-http://utcaemberek.blogspot.hu
-http://www.varazslat.co
-http://video-bazis.com
-http://vidnline.com
-https://vilagfigyelo.com
-http://vilaghalo.info
-http://vilagkep.info
-http://vilaglato.info
-http://vilagpolgarok.hu
-http://vilagpolgarok.blogspot.hu
-http://vilagunk.hu
-http://vilagszem.club
-http://xsense.net
-
-039.biz
-07Bux.net
-
-1-800-mail.com
-10-cash.com
-10bux.net
-1centemails.com
-10clix.com
-10dollar-mail.com
-100-cash.com
-100-dollars-mail.com
-100-percents-work-bux.com
-100cents-1000dollars.com
-100dollarsmails.com
-100euro-mail.com
-101clix.com
-1bux.org
-1centemails.com
-1dollarcash.com
-1stbux.com
-1stprofit.com
-
-2-dollar-mail.com
-20-cash.com
-20-Euro-mail.com
-200dollars-email.com
-200dollarsmail.com
-200euro-mail.com
-200eurocent-200euro.com
-200euromails.com
-200euromails.net
-20dollarsmail.com
-20euromail.com
-2009-bux.com
-24bux.com
-247bux.com
-25dollarsmail.com
-25-dollars-mail.com
-2bux.com
-2bux.net
-2dollaremails.com
-2ree.net
-
-300dollarsmail.com
-30dollarsmail.com
-37-21mail.com
-3rbux.com
-
-4bux.info
-4bux.pri.ee
-400dollarsdaily.info
-400dollarsmail.com
-4starads.info
-
-50centmails.com
-500cents-500dollars.net
-500cents-500dollars.org
-500pounds-and-500pence.com
-50dollarsmail.com
-520Searcher.com
-5bux.com
-5buxs.cn
-5ivebux.com
-
-60euromail.com
-666mails.com
-
-7centsolos.com
-7thbux.com
-7thheavenptr.net
-
-8cent-emails.com
-80euromail.com
-
-9bux.info
-99centclicks.info
-9icebux.com
-
-A-n-cash.com
-AAA-mails.com
-Abovebux.com
-Abux1.cn
-Aceptc.com
-Active-Clickers.com
-Activeclickers.com
-Actualbux.com
-Ad2bank.info
-Ad-fortune.com
-Adandel.com
-Adbux.org
-Adbux3.com
-Adbux10.com
-Adbuxter.com
-Adcash.lv
-Adcash.org
-Adfez.net
-Admadmax.com
-Admonsta.com
-Adoost.com
-Adpalptc.com
-Adptc.info
-Ads-bux.net
-Ads.own.CZ
-Ads4cash.net
-Ads4sale.info
-Adsforsale.info
-Adsgain.com
-Adsneed.com
-Adspacedepot.com
-Adstab.com
-Adstobux.com
-Adstomail.com
-Adswing.info
-Adverbux.com
-Adversess.com
-Advertbux.com
-Advercash.net
-Advertunited.com
-Advintage.com
-Aerobux.com
-Afferinte.com
-Ageptr.com
-Ahacash.com
-Alabamaclicks.com
-Alabamaptc.info
-Alertbux.com
-Alertptc.com
-Allcashmail.com
-Allstarsbux.com
-Allyousubmitters.com
-Almiyachts.com
-Alwayspay.com
-American-mails.com
-Amigoemail.com
-Ancient-bux.ch
-Angelbux.com
-Annies-biz.com
-Apachemails.com
-Anotherrealm.info
-Applemails.com
-Appleptc.info
-Appolomails.com
-Aquabux.com
-Arabbux.com
-Arabicbux.biz
-Arcane-mails.com
-Argentinaptc.com.AR
-Argusbux.info
-Ariaptc.com
-Armybux.com
-Asonewishes.com
-At-mails.com
-Athome-cash.com
-Atlantis.shiftcode.com
-Auction-emails.com
-Augbux.com
-Aurorabux.com
-Auto-bux.com
-Avengerbux.com
-Awsurveys.com
-Ayotraffic.info
-Azbux.com
-
-Babyloncash.com
-Baleclix.com
-Bananaclicks.info
-Bank-mails.com
-Bankbux.net
-Bastard-cash.com
-Baybux.com
-Beach-mails.com
-Beanybux.com
-Be-mails.com
-Becbux.com
-Bee-gold.com
-Best-mails.com
-Beebux.info
-Bensonbux.com
-Bestbux.com
-Bestbux.info
-Bestclickersbux.info
-Bestearnbux.net
-Bestgrandbux.info
-Bestpaidbux.cn
-Bestpornobux.us
-Beta-cash.com
-Betabux.com
-Bettybucks.com
-Bgbux.com
-Bgclicks.com
-Biggestdollars.com
-Bigkingpay.com
-Bigmoneyptc.com
-Bigx2.bigxmailer.com
-Bigx3.bigxmailer.com
-Billobucks.com
-Birdadmail.com
-Birdclicks.info
-Black-mails.com
-Blastbux.com
-Bloomingcash.info
-Blue-mails.com
-Bluebux.info
-Boffopaidmail.com
-Bondjamesbond.net
-Boodaq.com
-boonbux.com
-boostbux.info
-boss-mails.com
-braveviolation.com
-breastcancerptc.info
-britebux.com
-britishbux.com
-britneybux.com
-brmbux.com
-brown-mails.com
-brptc.com
-bugcash.com
-butterflyclix.com
-b-u-x.net
-bux.bg
-bux.gs
-bux.ms
-bux.to
-bux-4-clicks.com
-bux-enterprises.com
-bux-paid.com
-bux-pay.info
-bux-star.com
-bux10.com
-bux10.info
-bux11.com
-bux100.com
-bux24.com
-bux2cash.com
-bux2click.com
-bux2earn.com
-bux2you.com
-Bux3.com
-Bux3.net
-bux333.com
-bux365.com
-bux4.info
-bux4.net
-bux4all.com
-bux4clicks.com
-bux4you.net
-bux5.info
-bux6.com
-bux69.com
-bux.fater.info
-buxa.org
-buxalot.net
-buxbank.com
-buxbin.com
-buxbob.net
-buxboss.com
-buxbunny.com
-buxbytes.com
-buxcan.com
-buxcash.com
-buxclicks.net
-buxcore.com
-buxcorp.com
-buxdaily.com
-buxdeposit.com
-buxdevil.com
-buxdol.info
-buxdol.net
-buxdotcom.com
-buxear.com
-buxearn.com
-buxeast.com
-buxed.info
-buxed.net
-buxer.biz
-buxer.org
-buxero.com
-buxeuro.com
-buxexpress.com
-buxprofi.com
-buxgalore.com
-buxguaranteed.com
-buxhall.net
-buxheaven.com
-buxheaven.net
-buxheaven.org
-buxhere.com
-buxilliard.com
-buxin.info
-buxing.info
-buxinstant.com
-buxit.info
-buxjobs.com
-buxlab.com
-buxlove.com
-buxlv.com
-bux.mr-rex.net
-bux.own.cz
-buxmania.cn
-buxmania.info
-buxme.info
-buxmindz.com
-buxnolimit.com
-buxology.com
-buxnew.com
-buxnext.com
-buxnow.net
-buxon.net
-buxone.com
-buxor.info
-buxout.com
-buxpaidinstantly.com
-buxparadise.com
-buxpick.com
-buxplus.com
-buxplus.org
-buxpoint.com
-buxptc.com
-buxptr.com
-buxput.com
-buxrecord.com
-buxs.ws
-buxsense.com
-buxsense.info
-buxsit.com
-buxsnap.com
-buxtard.com
-buxtc.com
-buxtheory.com
-buxunlimited.com
-buxup.com
-buxvision.com
-buxvisit.net
-buxvisitors.net
-buxwanted.com
-buxway.net
-buxybux.com
-
-cafebux.com
-cannabisbux.net
-cannabismails.com
-carclicks.net
-carrotclicks.info
-cash-kitty.com
-cash-overflow.info
-cash2all.cn
-cash4ever.biz
-cash4grabs.info
-cash4hits.com
-cash4offers.com
-cashbux.com
-cashclicks.biz
-cash-clix.net
-cashheist.com
-cashinonads.info
-cashlauncher.com
-cashmails.biz
-cashmailz.com
-cashmybux.com
-cashnads.biz
-cashnbux.com
-cashnclicks.com
-cashout.me
-cashoutbux.com
-cashoutclix.com
-cashpointclicks.com
-cashposse.net
-cashread.com
-cashsea.com
-casinoptc.com
-cassandraclicks.com
-catch-cash.com
-cd-mails.com
-celbux.com
-celestialclicks.com
-cent-clicks.com
-centbux.com
-centclicks.com
-champbux.com
-cherokeeptr.com
-cherryclicks.info
-chillbux.com
-chobitmails.com
-chobitsmails.net
-christmasclicks.info
-class-act-clicks.com
-clean-invest.com
-click2bepaid.com
-click2bux.com
-click4you.net/
-clickabuck.info
-clickandbux.com
-click-bux.net
-clickbux.com
-clickbux.org
-clickbuxx.com
-clickearnmoney.com
-clickerbux.com
-clickerscompany.com
-clickerscoop.info
-clickersheaven.com
-clickfantasy.net
-clickin.me
-clickingmoney4u.com
-clickipink.com
-clickkt.com
-clickmonster.info
-clickmybux.com
-clickonbux.info
-clickosaur.us
-clickpay.ca
-clickptc.us
-clicks4bux.com
-clicks4cash.com
-clicksforshare
-clicktopsites.com
-clickvoid.com
-clix4coins.com
-click4u.net
-clix4sense.info
-clickabuck.info
-clickersheaven.com
-clickfantasy.net
-clickipink.com
-clickptc.us
-clixango.com
-clix-cash.info
-clixearn.com
-clixmania.net
-clixmedia.biz
-clixmx.com
-clixplaza.com
-cloud-mails.com
-cloudybux.com
-club4you.net
-cm-ptr.com
-coast-mail.com
-cobybux.com
-cocobizs.com
-coinclicks.net
-coinzbux.com
-cometbux.com
-comfortableIncome.net
-cool-bux.com
-coolybux.info
-cooperativemail.com
-copperflame.com
-copymails.com
-cosmicwealth.com
-coverclicks.com
-cowboy-mail.com
-crabclicks.info
-crazy4dollar.com
-crazyclicks.com
-crazyptc.biz
-cream-mails.com
-creativemails.biz
-crewbux.com
-crewbuxonline.com
-croclix.com
-croptc.com
-cruiseshipclicks.info
-
-daddybux.com
-daddyclix.com
-dafbux.info
-dailybux.info
-dailybux.org
-dailycent.com
-dailyclicks.biz
-dailyclickspro.com
-dannybux.com
-darkptc.com
-daydayupemails.com
-dayscash.com
-dcbux.com
-dedibux.com
-deep-mails.com
-deepseacash.com
-delta-cash.comdj-mails.com
-deluxe-bux.info
-deluxebux.com
-depacco.com
-desibux.com
-desiclix.com
-devilptc.com
-dicead.com
-digital-ptr.com
-dingobux.com
-directbux.com
-divinebux.com
-dj-mails.com
-dolarbux.info
-dollarclix.org
-dollar-factory.com
-dollarbux.info
-dollarbux.us
-dollarslove.com
-dolphindollarsgpt.com
-dolphincents.com
-dotptc.com
-downlinebux.com
-dragone-search.com
-dragonhole.com
-dream-mails.info
-dream-bux.com
-dreambux.com
-dreamclix.net
-dreamingbux.com
-dreamptc.com
-dreamstarmail.com
-drumcash.com
-drunkbux.com
-dualbux.com
-dudebux.com
-dungeonanddragonemails.com
-duobux.com
-dynamicbux.com
-
-e-bux.us
-e-clickz.com
-e-dollar.pl
-eagleclicknet.com
-eagleclicks.info
-earn3.com
-earn10.net
-earn10bux.com
-earn50.com
-earnbux.info
-earn.nu
-earnclick.net
-earningsecret.com
-earnmoneyeasily.net
-EarnMoneyPtc.com
-earnmybux.com
-earnptc.com
-earnup.com
-earnyourbux.com
-earthptr.com
-easy-clicks.net
-easy.tc
-easyclicks.org
-ecash-generator.info
-egyptclicks.com
-egyptianclicks.INFO, not the .com!!
-elisemails.com
-egyptptc.com
-elektricbux.info
-eliteclicks.com
-email2rewards.com
-emailpremium.com
-emailprofit.us
-emailsclub.com
-emailspayu.net
-emails-empire.com
-emeraldcoastptc.info
-enganbux.info
-englandbux.com
-englandbux.org
-enjoyfunds.com
-enrichptc.com
-entroclicks.com
-enzo-mails.com
-epicclicks.com
-erabux.net
-esooe.com
-essentialptr.com
-estbux.com
-etwac.com
-euro-emails.com
-eurobux.com
-eurobux.info
-eurobux.org
-eurocentsmail.com
-euroclick.com
-euroclickers.com
-eurokdo.com
-eurotrademails.com
-eurovisits.org
-exothema.com
-expert-mails.com
-expertmails.net
-extra10.com
-extreme-ads.com
-extreme-bux.com
-extreme-earnings.com
-extremeclickerz.com
-
-fairydollars.com
-famous-clickers.info
-fanclicks.info
-farland-cash.com
-fast.sc
-fastbux.com
-fastbux.org
-fastestbux.com
-fatcashcow.com
-feelbux.com
-feer-mial.com
-fegabux.info
-fillmyaccount.com
-filmyinbox.com
-financialfreedomads.com
-finebux.com
-fishptc.info
-flameclix.com
-flamemails.com
-flashpay.tuaptc.org
-flashrich.com
-flowerbux.com
-flybizs.com
-foobri.com
-forexbay.us
-foxcash.net
-freecashclick.com
-frei-bux.com
-fruitclicks.info
-ft-mails.com
-ftbux.com
-*&%#ingsituation.com
-fullbux.org
-funkycashmail.com
-furiousbux.com
-futurebux.com
-futureclicks.net
-
-gaborbux.com
-galaxybux.com
-galaxybux.info
-gamma-cash.com
-gammabux.com
-gatorbux.com
-gem-mails.com
-genuinebux.com
-getbuxed.com
-getclix.com
-getor-mails.com
-getpaidin24.com
-getpaidbyemail.com
-getpaideasy.com
-getpaidfasttoday.com
-getpaidtoguru.com
-getpaidwatch.com
-getrefmails.com
-getrichptr.com
-getyourgpt.com
-gg-bux.com
-ggmvp.org
-ggtheater.com
-gibux.com
-giftclicks.info
-gibuxsurf.com
-giga-cash.com
-giga-mails.com
-gigabux.net
-gilligansptc.info
-glitterbux.com
-globalptc.net
-globeptc.net
-goaio.com
-gogobux.com
-gold-mails.info
-goldads.org
-goldbizs.com
-goldclicks.org
-golddiggerptc.info
-golddownline.com
-golden-bux.com
-golden-galaxy.com
-goldenbux.net
-goldenemail.com
-goldengooseptc.info
-goldmineclicks.info
-goldsbux.com
-golfmails.com
-goobux.com
-goodbux.net
-goodluck-email.com
-google-mails.com
-gordosbux.info
-got2pay.com
-gotbux.com
-gpm-ptc.net
-gpt.ir
-gpt.wideads.org
-gptclub.com
-grandbux.org
-grapeclicks.info
-grapemails.com
-greatbux.com
-greenbux.com
-green-cash.com
-greetgold.com
-
-halfmillionmails.com
-happyclix.net
-happyearning.com
-hellishdollars.com
-hero-mails.com
-hickclicks.com
-highbidppc.com
-hiperbux.info
-hispanobux.com
-hispanobux.es
-hitcoop.com
-hits4bux.com
-hitzmagic.com
-hkbux.com
-holiday-mails.com
-hollywood-mail.com
-holybux.info
-honestbux.com
-honestmails.com
-honestptr.com
-hoobabux.com
-horrorptc.info
-hot-bux.info
-hubux.info
-huge-mails.com
-huge-return.com
-hunbux.info
-husky-mails.com
-
-icashout.net
-ice-mails.net
-icebux.com
-icepaid.com
-iclickclub.com
-idealbux.com
-ifreelanzer.com
-ilikeemails.com
-imatterbux.com
-impiggybank.com
-incentdollars.com
-incomebux.com
-incomebux.net
-incrasebux.com
-incursiones.biz
-infinitebux.com
-insta-bux.com
-instant-ptc-cash.com
-instantad.org
-instantbux.com
-instantlybux.com
-instantlyptc.com
-instantcashmakers.com
-instantlybux.com
-instantlyptc.com
-instantptr.com
-instantrustbux.com
-intbux.net
-interbux.info
-interbux.net
-intearn.com
-intgold.com
-ioniclicks.com
-ipbux.com
-ipcommunity.co.uk
-ippomails.com
-ippomails.net
-iqbux.com
-isabelmarco.com
-islandclicks.net
-italianptc.com
-iwantbux.com
-
-jays-paidmail.com
-Jaysu.com
-jazzyptc.info
-jdclicks.com
-jetclicks.info
-jiggypig.com
-jjlbux.com
-jlbux.com
-jnbux.com
-job-readmail.com
-joinbux.net
-joinforcash.com
-jokerbux.com
-jolilobux.com
-jreignsfim.com
-jthcorp.com
-junglecash.com
-just-ad.info
-just-click.us
-
-kabelbux.com
-kazype.com
-kessefkal.info
-kiddays.com
-kingbux.biz
-kingbux.com
-kitcatcash.com
-klikini.net
-koobux.com
-kooplinks.com
-
-l33t-bux.com
-lastbux.com
-lava-bux.com
-leaderbux.com
-legitbux.com
-libertycash.biz
-lifebux.com
-lightstarmail.com
-linato.shiftcode.com
-link2communion.com
-linkread.com
-links4cashonline.com
-linxshare.biz
-lirbux.info
-litebux.com
-littleengineptr.com
-littlemermaidptc.info
-littleswanclicks.info
-lizardclicks.info
-loading-mails.com
-logans-legacy.com
-lokomotivptc.com
-lolclicks.com
-LollipopMails.com
-lorikcash.info/
-lotionclicks.info
-loveads.pl
-lowonbux.net
-loyalbux.com
-luxurybux.com
-
-macobux.com
-madabux.net
-madnessbux.com
-magicalmails.com
-magicash.org
-magicdollar.info
-magicdragonhits.com
-magnetismail.com
-mailsmoney.com
-mailsmoney.net
-main-bux.com
-mainbux.com
-makemybux.com
-makocashflow.com
-makolinks.com
-malbux.com
-malisanko-emails.com
-mangoemails.com
-many-mails.com
-massiveptc.com
-massiveptr.com
-master-bux.com
-masterbux.com
-masterclicks.com
-matrixptc.com
-max-bux.com
-maxbux.info
-max-ptc.com
-maystromails.com
-mazbux.info
-mbbux.net
-mcbux.com
-mcbux.info
-mdbux.com
-meansbux.net
-medal-mails.com
-mega-ptr.com
-megacashclicks.net
-meggarichemails.com
-mellow-mails.com
-metal-emails.com
-metalpaidread.com
-meteor-mails.com
-michellesrandomizer.com
-mifriend.com
-milion-mail.com
-million-mails.com
-millionaire-mail.com
-millions-usd.com
-mimimcash.com
-minbux.com
-mincashbux.com
-miniptc.info
-miraclemails.com
-mixbux.com
-mnmbux.com
-mnmclicks.com
-moderndaybux.info
-money-website.com
-moneybagsmail.com
-moneybux.biz
-moneybux.com
-moneybux.info
-moneybux.org
-moneyclicks.biz
-moneyclicks.info
-moneyems.com
-moneymails.biz
-moneymouser.com
-moneysbank.com
-monsterclix.info
-morehunks.com
-morpheusptc.com
-multibux.com
-multibux.info
-multiptc.com
-musicbux.info
-mybigbux.com
-mybizs.com
-mybux.in
-mycashfountain.com
-mycashout.net
-myministore.com
-myneighborhoodgivingptc.info
-myprobux.com
-synergyclix.co.uk
-myrealcash.net
-myspacetoearn.com
-mysteryptc.com
-mysweetheartmail.com
-
-nationclicks.com
-nature-mails.com
-naudina.eu
-neatbux.com
-nemoclicks.com
-neonptc.com
-nerobux.com
-nerogpt.com
-netcash.com
-netcashbux.com
-netgold4u.com
-netwinner.com
-newbuxera.com
-newclicks.info
-nextbux.net
-ngbux.com
-nicebux.com
-nightbux.com
-nightclix.info
-ninebux.com
-nolimitbux.com
-nomincashout.com
-notsotricky.com
-novobux.com
-number-emails.com
-numenmail.com
-
-oasisclicks.com
-occupex.com
-ocean-mails.com
-ohomails.com
-oldchildclicks.cn
-oldschoolbux.com
-olympicbux.com
-onebux.net
-onedollarmail.com
-one-mails.com
-oneperson-mail.com
-online4ads.com
-onlinecashclicks.com
-onlybux.net
-onnetclicks.net
-opontes.info
-orangemails.com
-orbitclicks.com
-ordinaryclicks.com
-original-clicks.info
-osobux.info
-oursharedsuccess.com
-ourpaidmail.com
-outlawbux.com
-ozonebux.com
-
-p2cdaily.com
-paid2clickonline.com
-paid4clicks.com
-paid.vg
-paid-ads.info
-paid-bux.info
-paidbux.com
-paidbux.org
-paidclicks.us
-paidclicks.ws
-paidemail.com
-paidmail.italiabusiness.org
-paidmail.ru
-paidmailengine.com
-paidontime.org
-paidstation.com
-paidsolos.com
-paidtobux.com
-paidtoclic.com
-paidtoclick.net
-paidtoclicknmore.com
-paidworld.com
-pamperedpetsptc.info
-pandabux.com
-papajuan.info
-parsbux.com
-pay-dough.com
-pay-to-click.net
-Paytoclick.biz
-pay2surf.net
-payday-bux.com
-paydaybux.info
-paydayptc.com
-payee.me
-payingbux.com
-payingptr.com
-paykings.com
-paymebucks.info
-payooclub.com
-paypalbux.info
-payptc.com
-paytc.net
-payyou123.com
-payyoudollar.com
-pcash.info
-pearclicks.info
-pekingcash.com
-peoplebux.us
-perfect-emails.com
-perfectbux.com
-perfectptc.com
-performancebux.com
-performanceptc.com
-persianptc.com
-petromails.com
-phoenixcash.info
-pinkmails.com
-pixie-clix.info
-pizzamails.com
-platinum-investment.com
-platinum-mails.com
-pleasant-mails.com
-plusbux.com
-plutobux.com
-pocketfavorite.com
-pol-bux.com
-polarbearmails.com
-popularbux.com
-pornobux.net
-potpourriclicks.info
-powderclicks.info
-power-mails.net
-powerbux.org
-ppclix.com
-pretty-mail.com
-prettyptr.com
-primebux.com
-princebux.com
-pro-ads.net
-probux.info
-probux.net
-professionalbux.com
-profitfrommails.com
-profitwonderbux.com
-projectclix.com
-promails.org
-properptr.com
-prosperbux.com
-protobux.com
-prowlingpantherptc.info
-ptc4ads.com
-ptc4you.com
-ptc-bux.com
-ptcbomb.info/
-ptcad.net
-ptcaddicts.com
-ptcash.biz
-ptcbux.com
-ptcclickers.com
-ptcdepot.com
-ptcheaven.com
-ptcitalian.com
-ptcmafia.com
-ptcmatrix.com
-ptcnation.org
-ptcprocash.com
-ptcworld.co.in
-ptr-business.com
-ptr-hun.com
-ptr-trading.com
-ptrland.com
-ptrout.com
-puppypaid2clicks.com
-pure-clicks.com
-purpletulips.net
-
-quality-profits.com
-quebecptr.com
-quick-clix.com
-quickerclix.com
-quickestshare.com
-quickwin.org
-
-rabbit-mail.com
-rabbit-mails.com
-race4click.shiftcode.com
-radicalbux.com
-rainbow-mails.com
-rainingbux.com
-ranocash.com
-read2money.com
-redbux.com
-realbux.us
-realityofwealth.com
-realmails.com
-redlightdistrictptc.info
-redroseptc.info
-referralbux.com
-remotebux.net
-reobux.om
-retrobux.com
-revolutionbux.com
-richclix.com
-richptc.com
-rivermails.com
-road-mails.com
-rocashbux.info
-roflbux.com
-rolex-mails.com
-rosebux.com
-rosenet-emails.com
-roudycash.com
-roxyptc.com
-royalbux.ch
-rundownbux.com
-rundownbux.net
-
-safeptc.com
-saintbernardsptc.info
-saintbux.info
-salemails.com
-samobux.com
-Sandraclicks.com
-sansabux.info
-saturn-mails.com
-saturnbux.com
-scambux.com
-scarlettmails.com
-scotbux.co.uk
-scyzion.com
-sea-mails.com
-seabux.com
-sebasbux.com
-secret-mails.net
-securepaybux.com
-seekcashmail.com
-sepooq.com
-seriousbucks.com
-seriouxclickers.com
-seven-bux.com
-seventhbux.com
-seventhbux.info
-sexybux.com
-sharethebux.com
-shirecash.com
-shoutoutptc.com
-signptc.info
-silentbux.net
-silvanamails.com
-silvanamails.net
-silverbux.com
-simpleclickers.com
-simplestash.com
-simplybux.com
-simplyptc.com
-simpsonsbux.com
-sirensongptc.info
-siteclubemail.com
-slo-bux.com
-smartbux.net
-smartclicks.com
-smartclicks.shiftcode.com
-smile-email.com
-smithbux.com
-smoothbux.net
-smurfybux.com
-snoopycash.com
-snowballclicks.com
-snowbux.com
-snowbux.net
-softbux.com
-softbux.net
-softbux.org
-sohobux.com
-solarclick.com
-solutionscode.com
-soulbux.com
-southmails.com
-spainbux.com
-spartaclicks.com
-speedbux.org
-speedybux.info
-spiderbux.com
-spikebux.info
-splashptc.com
-splurgebux.com
-sprint-cash.com
-spidermanemails.com
-spongebobclicks.info
-st-bux.com
-stablebux.info
-stablebux.com
-starbuxs.com/
-stationad.com
-steadymails.com
-storybux.com
-strawberryclicks.com
-strawberryclicks.info
-strongptr.com
-studio-mail.com
-sun-cash.com
-sunday-mails.com
-sunflowerssptr.com
-super-bux.net
-superbux.info
-super-program.com
-superstarmail.com
-supremeclix.com
-sure2click.com
-surf-ads.net
-surfanearn.net
-surfcash.net
-surfjunky.com
-surforhits.com
-surprisemails.com
-sweetsmails.com
-swimming-dolphins.info
-sysbux.com
-sysmails.com
-systemmails.com
-
-taketheglobe.com
-tarbux.com
-tata-cash.com
-teambux.com.ar
-technobux.com
-ten-ads.net
-tendollarsmail.com
-teneuromail.com
-texasbux.com
-the70sptc.info
-thebunnybucks.com
-thebux.com
-thebux.info
-thedailyprofit.net
-thegoldclick.com
-thegoldmail.com
-thegoldsafe.com
-theprofithouse.com
-theptc.biz
-therichcash.com
-therichptr.com
-thinkbux.com
-throttlebux.com
-timebux.com
-timeforcafe.com
-timelessearn.com
-tincity.net
-tiserbux.net
-tnt-e-mail.com
-tobux.com
-todaysbux.com
-tombmailer.com
-tomorrow-bux.com
-tons-referrals.com
-topbux.com
-topbux.org
-topdollaremails.com
-toroads.com
-trade-mails.com
-traffic2clicks.com
-trafficbux.com
-trafficleaderbux.com
-treeclicks.info
-tribux.net
-triplebux.com
-tropicalptc.netsons.org
-true-money-for-you.com
-trustfulmail.com
-trusturbux.com
-trustybux.com
-tumoney.com
-turbobux.com
-twodollarsmail.com
-tycoonmails.com
-
-ubiclick.net
-ubizs.com
-ubux.biz
-ubux.tk
-uclix.ws
-ugains.com
-uggibux.com
-uggicorp.com
-ugptc.com
-uk-bux.com
-ukclickers.co.uk
-uniclix.com
-uniquebux.info
-united-empire.com
-universalclix.com.br
-universebux.info
-unlimitedbux.info
-unobux.com
-uronlinebux.com
-usa-canada-email.com
-usd-ads.com
-utopiabux.com
-
-valuebux.com
-velocityclicks.com
-view-ads.net
-vipbux.com
-view4pay.com
-Viper-clicks.com
-visible-better.com
-visit4cash.net
-vistabux.com
-vjcash.com
-vlinx.net
-voobux.com
-
-waoindia.com
-warm-mails.com
-wc-mails.com
-wealthyptr.com
-webbercash.com
-weekendbux.com
-wepaybux.com
-western-mails.com
-whaleofaptc.info
-wideads.org
-windbux.com
-windsorptc.com
-wingmails.com
-winkbux.com
-wizardsptc.info
-wolfbux.com
-wonderful-mails.com
-woo-mails.com
-wordlyptc.info
-workatbank.com
-workfor1dollar.com
-workmails.com
-world-bux.com
-World-Clix.com
-worldclicks.info
-worldofbux.com
-worldgpt.com
-worldsptr.com
-worldwidemails.com
-wowearnings.com
-wrmoney.com
-
-x-bux.com
-x-bux.net
-x3bux.com
-xbux.com
-xclix.net
-xeni.dk
-xray-cash.com
-xs-ptc.org
-xtrabux.net
-xtremeclickerz.com
-
-y2e.info
-yayclick.com
-yeahbux.info
-yesptc.info
-yourbux.net
-
-zakeebux.com
-zbestbux.com
-zetaptc.com
-zetbux.com
-zooclicks.info
-zubux.com
-zwallet.com
-zxclicks.com
+127.0.0.1	2perc.info
+127.0.0.1	24ora.eu
+127.0.0.1	ajanlom-magamat.com
+127.0.0.1	aktiv-blog.com
+127.0.0.1	aktiv-hirek.net
+127.0.0.1	alternativhirek.blogspot.hu
+127.0.0.1	www.anepszava.com
+127.0.0.1	aztbeszelik.com
+127.0.0.1	facebook.com/bakkecske.net
+127.0.0.1	bamulat.blogspot.hu
+127.0.0.1	best-hir.com
+127.0.0.1	bizalmas.com
+127.0.0.1	bizony.eu
+127.0.0.1	boroskola.info
+127.0.0.1	budapest1873.net
+127.0.0.1	budapest-1873.info
+127.0.0.1	www.buzzblog.eu
+127.0.0.1	cikkelek.eu
+127.0.0.1	civilhir.net
+127.0.0.1	csakneked.info
+127.0.0.1	csucshatas.eu
+127.0.0.1	szupcsi.eu
+127.0.0.1	csumida.com
+127.0.0.1	dinamikus.com
+127.0.0.1	dobbenetes.com
+127.0.0.1	dosszie.com
+127.0.0.1	egeszsegespont.hu
+127.0.0.1	egyazegyben.com
+127.0.0.1	egyenesen.com
+127.0.0.1	egyveleg.com
+127.0.0.1	elfogadom.eu
+127.0.0.1	eljunkszabadon.co.vu
+127.0.0.1	www.elkepeszto.net
+127.0.0.1	www.erdekescikkek.com
+127.0.0.1	erdekeshirek.info
+127.0.0.1	erdekeshirek.club
+127.0.0.1	erdemesszo.club
+127.0.0.1	exkluziv-videok.com
+127.0.0.1	extremblog.com
+127.0.0.1	ezerdekes.eu
+127.0.0.1	ezt-figyeld.com
+127.0.0.1	ezt-figyeld-blog.com
+127.0.0.1	eznempiti.eu
+127.0.0.1	eztnezd.net
+127.0.0.1	eztnezdmeg.info
+127.0.0.1	eztnezdmeg-blog.com
+127.0.0.1	eztnezdmeg.net
+127.0.0.1	eztnezdmeg.com
+127.0.0.1	ez-zsir.net
+127.0.0.1	ace-nemzedek.com
+127.0.0.1	fejezet.com
+127.0.0.1	figyuzz.net
+127.0.0.1	fogjunkossze.com
+127.0.0.1	fontoshirek.info
+127.0.0.1	fontostudni.club
+127.0.0.1	filmhir.net
+127.0.0.1	first-video.net
+127.0.0.1	fm3cafe.hu
+127.0.0.1	www.fem3cafe.me
+127.0.0.1	franko.info
+127.0.0.1	frenetikus.com
+127.0.0.1	frissvilag.com
+127.0.0.1	funtasztikus.eu
+127.0.0.1	globire.info
+127.0.0.1	gonosz-majom.com
+127.0.0.1	hatter-story.info
+127.0.0.1	heti-naplo.com
+127.0.0.1	www.hetperc.com
+127.0.0.1	hir-24.info
+127.0.0.1	hir-24.eu
+127.0.0.1	hir27.in
+127.0.0.1	hir44.blogspot.com
+127.0.0.1	hirado-online.net
+127.0.0.1	hirado.top
+127.0.0.1	figyelo-net.com
+127.0.0.1	hirek-online.com
+127.0.0.1	hirek.top
+127.0.0.1	hirexpressz.top
+127.0.0.1	hirfolyam24.blogspot.hu
+127.0.0.1	hirjarat.com
+127.0.0.1	hirkalap.net
+127.0.0.1	hirkert.info
+127.0.0.1	hirkozlo.com
+127.0.0.1	hirlexikon.eu
+127.0.0.1	hirmadar.com
+127.0.0.1	www.hirnap.info
+127.0.0.1	hirnaplo.com
+127.0.0.1	hir-online.com
+127.0.0.1	hironline24.net
+127.0.0.1	hirorigo.net
+127.0.0.1	hirozon.info
+127.0.0.1	hirportal.info
+127.0.0.1	hir-start.net
+127.0.0.1	hir-start.com
+127.0.0.1	hirszabadsag.blogspot.com
+127.0.0.1	hirtop.in
+127.0.0.1	www.hir-tv.com
+127.0.0.1	hirtrafik.top
+127.0.0.1	hirturi.blogspot.hu
+127.0.0.1	www.hirvarazs.info
+127.0.0.1	hirvilag.co
+127.0.0.1	hirzona24.com
+127.0.0.1	hitel.news7.hu
+127.0.0.1	hungaryexpres.com
+127.0.0.1	husospizza.com
+127.0.0.1	index-blog.net
+127.0.0.1	mindenbenegyblog.hu
+127.0.0.1	www.kaprazatos.club
+127.0.0.1	kepzavar.info
+127.0.0.1	ketkes.com
+127.0.0.1	kiralyvidi.eu
+127.0.0.1	kiskegyed.creatorword.com
+127.0.0.1	kozszolgalat.com
+127.0.0.1	kukucs.info
+127.0.0.1	kutyapisti.eu
+127.0.0.1	lajkolj.info
+127.0.0.1	lapzarta.com
+127.0.0.1	lattadmar.eu
+127.0.0.1	ledobbensz.blogspot.hu
+127.0.0.1	legfrissebb.info
+127.0.0.1	legjava.com / legjava.pro
+127.0.0.1	macskajaj.net
+127.0.0.1	www.anephangja.com
+127.0.0.1	magyarkozosseg.net
+127.0.0.1	magyar-media.com
+127.0.0.1	www.magyarnep.me
+127.0.0.1	magyarokrol.com
+127.0.0.1	magyarokvagyunk.com
+127.0.0.1	mai-friss.com
+127.0.0.1	mai-hirek.net
+127.0.0.1	www.ma-reggel.me
+127.0.0.1	mediavadasz.info
+127.0.0.1	megdobbensz.info
+127.0.0.1	meglepo.info
+127.0.0.1	hotpixel.co.vu
+127.0.0.1	megoszthato.blogspot.hu
+127.0.0.1	meteon.org
+127.0.0.1	www.mindenegyben.com
+127.0.0.1	mindenegybenblog.hu
+127.0.0.1	mindenegyben-blog.com
+127.0.0.1	mindenegybenblog.net
+127.0.0.1	mindenegyben-blog.net
+127.0.0.1	www.minden-egyben.com/
+127.0.0.1	mindenegyhelyen.info
+127.0.0.1	mulato.info
+127.0.0.1	mokavilag.com
+127.0.0.1	mokuskerek.club
+127.0.0.1	morickamegpiskota.housefmradio.eu
+127.0.0.1	a-nagy-alku.com
+127.0.0.1	nagyonjoo.com
+127.0.0.1	napi-friss.com
+127.0.0.1	napi-hir.net
+127.0.0.1	napi-hirek.net
+127.0.0.1	napi-humor.hu
+127.0.0.1	napi-media.com
+127.0.0.1	napimigrans.com
+127.0.0.1	napimigrans.info
+127.0.0.1	napitrend.blogspot.hu
+127.0.0.1	www.napiujsag.hu
+127.0.0.1	naplo-extra.com
+127.0.0.1	naturahirek.com
+127.0.0.1	www.anephangja.com
+127.0.0.1	netbetyar.me
+127.0.0.1	netextra.hu
+127.0.0.1	erdekesvilag.eu
+127.0.0.1	nethir.eu
+127.0.0.1	netbulvar.eu
+127.0.0.1	netujsag.info
+127.0.0.1	hu.news-front.info
+127.0.0.1	www.nlcafe.me
+127.0.0.1	nyaralok.net
+127.0.0.1	organikusok.blogspot.hu
+127.0.0.1	origo-blog.com
+127.0.0.1	origo-hirek.net
+127.0.0.1	origoblog.net
+127.0.0.1	origo-online.net
+127.0.0.1	otletdivak.hu
+127.0.0.1	www.otpercpiheno.hu
+127.0.0.1	otpercpiheno.blogspot.com
+127.0.0.1	palyazatfigyelo.info
+127.0.0.1	phuphi.com
+127.0.0.1	pletyka.eu
+127.0.0.1	pluszcafe.hu
+127.0.0.1	popec.net
+127.0.0.1	www.remekcikkek.com
+127.0.0.1	reszvetel.blogspot.com
+127.0.0.1	rtlhirek-online.com
+127.0.0.1	www.rtl-klub.me
+127.0.0.1	rtl-most.blogspot.hu
+127.0.0.1	szupertanacsok.blog.hu
+127.0.0.1	sokminden.info
+127.0.0.1	skubizd.info
+127.0.0.1	szabadonebredok.info
+127.0.0.1	szemlelo.com
+127.0.0.1	Szerencses – szerencses.info
+127.0.0.1	szerencsemano.info
+127.0.0.1	tenyek24.net
+127.0.0.1	tenyek24.eu
+127.0.0.1	tenyek-online.com
+127.0.0.1	thehungariantimes.hu
+127.0.0.1	tiltott.net
+127.0.0.1	titkoshirek.wordpress.com
+127.0.0.1	titokterminal.com
+127.0.0.1	tophirek.hu
+127.0.0.1	www.figyeld.eu
+127.0.0.1	tricikli.com
+127.0.0.1	tudasfaja.com
+127.0.0.1	www.atudas-faja.hu
+127.0.0.1	www.tudasfaja.club
+127.0.0.1	tudaskor.com
+127.0.0.1	tudathalo.blogspot.hu
+127.0.0.1	tudatosanelok.com
+127.0.0.1	tudnivalok.com
+127.0.0.1	tudnodkel.blogspot.com
+127.0.0.1	tudnodkell.info
+127.0.0.1	www.tutihirek.org
+127.0.0.1	ujvilagtudat.blogspot.hu
+127.0.0.1	www.xcore.in
+127.0.0.1	vakarek.info
+127.0.0.1	vattacukor.net
+127.0.0.1	vicces-humoros.com
+127.0.0.1	vidamsag.postr.hu
+127.0.0.1	video-bazis.com
+127.0.0.1	videojohny.eu
+127.0.0.1	vidnline.com
+127.0.0.1	www.video-perc.net
+127.0.0.1	videopista.eu
+127.0.0.1	vilagfigyelo.com
+127.0.0.1	vilaghelyzete.blogspot.com
+127.0.0.1	www.vilaglato.info
+127.0.0.1	vilagpolgarok.blogspot.hu
+127.0.0.1	avilagtitkai.com
+127.0.0.1	vilagunk.hu
